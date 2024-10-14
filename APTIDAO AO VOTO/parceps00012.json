@@ -1,0 +1,28 @@
+{
+"Planilha1":[
+ {
+  "n_oab": 100,
+  "nome": "José Silva",
+  "local_votacao": "Campo Grande",
+  "situacao": 0
+ },
+ {
+  "n_oab": 1000,
+  "nome": "X Man Ciclop",
+  "local_votacao": "Dourados",
+  "situacao": 0
+ },
+ {
+  "n_oab": 1001,
+  "nome": "Wolverine Logan",
+  "local_votacao": "Sidrolândia",
+  "situacao": 1
+ },
+ {
+  "n_oab": 9999,
+  "nome": "Tempestade Storm",
+  "local_votacao": "Paranaíba",
+  "situacao": 1
+ }
+]
+}
